@@ -1,2 +1,2 @@
-# RDE06
+# RDE06_sintese
  
